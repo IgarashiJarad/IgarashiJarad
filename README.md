@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Igarashi Tomo
 - 🌱 I’m currently learning front and backend development,
   its a slow process but i think with time i can get a better hang of it.
-- 📫 Insgagram - http://instagram.com/999.cl.ub/
+- 📫 Insgagram - http://instagram.com/jarad.lol/
 - Heres my Website - https://igarashi.ca/
 
 <!---
